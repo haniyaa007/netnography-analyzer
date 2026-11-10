@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run analysis (prompts for name + site)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["run"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Login: linkedin",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["login", "linkedin"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

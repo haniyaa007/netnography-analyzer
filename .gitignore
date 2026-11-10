@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.sessions/
+outputs/
+*.xlsx
+.pytest_cache/
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json

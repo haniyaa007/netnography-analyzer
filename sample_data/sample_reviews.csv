@@ -1,0 +1,123 @@
+platform,text,rating,date,author,url,engagement
+reddit,"Great value for money, easy to use interface, would recommend to anyone. (note 0)",,2026-03-02,person32,https://example.com/r/0,24
+linkedin,"Delivery took five days, package arrived as described. (note 1)",,2026-04-18,person7,https://example.com/r/1,15
+trustpilot,"Delivery took five days, package arrived as described. (note 2)",3,2026-01-02,person29,https://example.com/r/2,8
+reddit,"Great value for money, easy to use interface, would recommend to anyone. (note 3)",,2026-01-16,person2,https://example.com/r/3,0
+google_reviews,"Great value for money, easy to use interface, would recommend to anyone. (note 4)",5,2026-04-21,person28,https://example.com/r/4,23
+trustpilot,Still waiting for my refund. Disappointed and angry about the billing. (note 5),1,2026-09-11,person36,https://example.com/r/5,7
+g2,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 6),1,2026-08-24,person19,https://example.com/r/6,29
+trustpilot,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 7)",3,2026-04-06,person19,https://example.com/r/7,3
+g2,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 8)",3,2026-06-05,person19,https://example.com/r/8,18
+linkedin,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 9)",,2026-09-03,person16,https://example.com/r/9,23
+linkedin,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 10)",,2026-07-07,person36,https://example.com/r/10,28
+g2,"Great value for money, easy to use interface, would recommend to anyone. (note 11)",5,2026-09-18,person7,https://example.com/r/11,24
+reddit,"Delivery took five days, package arrived as described. (note 12)",,2026-09-08,person2,https://example.com/r/12,15
+trustpilot,Still waiting for my refund. Disappointed and angry about the billing. (note 13),1,2026-03-29,person11,https://example.com/r/13,16
+reddit,"Love the product, amazing quality and the support team was so helpful. (note 14)",,2026-10-04,person36,https://example.com/r/14,7
+linkedin,"The app keeps crashing, very frustrating bug after the last update. (note 15)",,2026-08-24,person18,https://example.com/r/15,21
+google_reviews,"Great value for money, easy to use interface, would recommend to anyone. (note 16)",5,2026-09-20,person9,https://example.com/r/16,16
+google_reviews,Still waiting for my refund. Disappointed and angry about the billing. (note 17),1,2026-01-29,person31,https://example.com/r/17,27
+g2,Still waiting for my refund. Disappointed and angry about the billing. (note 18),1,2026-09-06,person23,https://example.com/r/18,13
+g2,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 19)",5,2026-10-04,person40,https://example.com/r/19,25
+google_reviews,Still waiting for my refund. Disappointed and angry about the billing. (note 20),1,2026-01-15,person15,https://example.com/r/20,20
+reddit,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 21)",,2026-10-10,person17,https://example.com/r/21,1
+trustpilot,"Love the product, amazing quality and the support team was so helpful. (note 22)",5,2026-08-20,person1,https://example.com/r/22,24
+g2,"The app keeps crashing, very frustrating bug after the last update. (note 23)",1,2026-02-26,person40,https://example.com/r/23,5
+g2,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 24)",1,2026-03-27,person11,https://example.com/r/24,8
+google_reviews,"The app keeps crashing, very frustrating bug after the last update. (note 25)",1,2026-05-31,person30,https://example.com/r/25,22
+g2,"Delivery took five days, package arrived as described. (note 26)",3,2026-02-28,person2,https://example.com/r/26,9
+linkedin,Still waiting for my refund. Disappointed and angry about the billing. (note 27),,2026-04-07,person17,https://example.com/r/27,3
+g2,Still waiting for my refund. Disappointed and angry about the billing. (note 28),1,2026-01-11,person15,https://example.com/r/28,0
+linkedin,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 29)",,2026-03-24,person29,https://example.com/r/29,22
+google_reviews,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 30)",3,2026-09-22,person29,https://example.com/r/30,7
+google_reviews,"Great value for money, easy to use interface, would recommend to anyone. (note 31)",5,2026-10-22,person21,https://example.com/r/31,21
+linkedin,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 32)",,2026-06-02,person9,https://example.com/r/32,30
+reddit,"Great value for money, easy to use interface, would recommend to anyone. (note 33)",,2026-02-06,person5,https://example.com/r/33,9
+g2,Still waiting for my refund. Disappointed and angry about the billing. (note 34),1,2026-10-17,person17,https://example.com/r/34,4
+trustpilot,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 35)",5,2026-04-22,person37,https://example.com/r/35,14
+reddit,"Great value for money, easy to use interface, would recommend to anyone. (note 36)",,2026-04-13,person23,https://example.com/r/36,3
+reddit,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 37)",,2026-09-10,person7,https://example.com/r/37,30
+linkedin,Still waiting for my refund. Disappointed and angry about the billing. (note 38),,2026-01-09,person21,https://example.com/r/38,19
+linkedin,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 39)",,2026-03-22,person13,https://example.com/r/39,27
+g2,"The app keeps crashing, very frustrating bug after the last update. (note 40)",1,2026-08-08,person14,https://example.com/r/40,8
+trustpilot,"Delivery took five days, package arrived as described. (note 41)",3,2026-10-01,person32,https://example.com/r/41,24
+google_reviews,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 42)",1,2026-01-21,person6,https://example.com/r/42,4
+reddit,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 43),,2026-05-18,person22,https://example.com/r/43,19
+google_reviews,"The app keeps crashing, very frustrating bug after the last update. (note 44)",1,2026-06-23,person22,https://example.com/r/44,3
+g2,Still waiting for my refund. Disappointed and angry about the billing. (note 45),1,2026-03-11,person38,https://example.com/r/45,17
+trustpilot,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 46)",1,2026-07-28,person5,https://example.com/r/46,12
+reddit,"The app keeps crashing, very frustrating bug after the last update. (note 47)",,2026-02-28,person40,https://example.com/r/47,18
+linkedin,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 48)",,2026-10-09,person15,https://example.com/r/48,18
+trustpilot,"The app keeps crashing, very frustrating bug after the last update. (note 49)",1,2026-06-01,person37,https://example.com/r/49,17
+trustpilot,"Delivery took five days, package arrived as described. (note 50)",3,2026-02-25,person3,https://example.com/r/50,26
+g2,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 51)",5,2026-01-08,person6,https://example.com/r/51,13
+trustpilot,"Love the product, amazing quality and the support team was so helpful. (note 52)",5,2026-05-03,person38,https://example.com/r/52,13
+reddit,"Great value for money, easy to use interface, would recommend to anyone. (note 53)",,2026-03-27,person16,https://example.com/r/53,5
+trustpilot,"Delivery took five days, package arrived as described. (note 54)",3,2026-10-05,person19,https://example.com/r/54,17
+g2,"Delivery took five days, package arrived as described. (note 55)",3,2026-02-21,person14,https://example.com/r/55,20
+g2,"Love the product, amazing quality and the support team was so helpful. (note 56)",5,2026-01-06,person19,https://example.com/r/56,23
+google_reviews,Still waiting for my refund. Disappointed and angry about the billing. (note 57),1,2026-07-20,person21,https://example.com/r/57,12
+trustpilot,"Great value for money, easy to use interface, would recommend to anyone. (note 58)",5,2026-08-22,person8,https://example.com/r/58,8
+reddit,"Delivery took five days, package arrived as described. (note 59)",,2026-05-13,person12,https://example.com/r/59,17
+reddit,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 60),,2026-05-07,person24,https://example.com/r/60,2
+g2,"Great value for money, easy to use interface, would recommend to anyone. (note 61)",5,2026-02-16,person37,https://example.com/r/61,20
+g2,Still waiting for my refund. Disappointed and angry about the billing. (note 62),1,2026-06-07,person3,https://example.com/r/62,10
+reddit,"The app keeps crashing, very frustrating bug after the last update. (note 63)",,2026-05-06,person22,https://example.com/r/63,3
+google_reviews,"Love the product, amazing quality and the support team was so helpful. (note 64)",5,2026-04-23,person2,https://example.com/r/64,25
+reddit,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 65)",,2026-05-18,person36,https://example.com/r/65,27
+trustpilot,"Love the product, amazing quality and the support team was so helpful. (note 66)",5,2026-01-06,person19,https://example.com/r/66,24
+g2,"Delivery took five days, package arrived as described. (note 67)",3,2026-03-20,person7,https://example.com/r/67,16
+g2,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 68)",5,2026-03-30,person12,https://example.com/r/68,24
+reddit,"The app keeps crashing, very frustrating bug after the last update. (note 69)",,2026-06-06,person7,https://example.com/r/69,22
+google_reviews,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 70),1,2026-04-16,person10,https://example.com/r/70,17
+trustpilot,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 71),1,2026-04-02,person20,https://example.com/r/71,13
+google_reviews,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 72)",1,2026-05-07,person17,https://example.com/r/72,24
+trustpilot,"Delivery took five days, package arrived as described. (note 73)",3,2026-10-09,person17,https://example.com/r/73,17
+linkedin,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 74)",,2026-07-22,person22,https://example.com/r/74,5
+g2,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 75)",3,2026-08-02,person37,https://example.com/r/75,0
+trustpilot,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 76),1,2026-03-06,person9,https://example.com/r/76,8
+g2,"Delivery took five days, package arrived as described. (note 77)",3,2026-03-30,person40,https://example.com/r/77,2
+reddit,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 78)",,2026-04-01,person34,https://example.com/r/78,10
+google_reviews,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 79)",3,2026-05-03,person21,https://example.com/r/79,15
+linkedin,Still waiting for my refund. Disappointed and angry about the billing. (note 80),,2026-06-22,person36,https://example.com/r/80,19
+g2,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 81)",1,2026-02-06,person33,https://example.com/r/81,20
+g2,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 82),1,2026-06-09,person20,https://example.com/r/82,22
+g2,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 83),1,2026-08-26,person39,https://example.com/r/83,2
+trustpilot,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 84)",3,2026-03-21,person17,https://example.com/r/84,13
+reddit,"Great value for money, easy to use interface, would recommend to anyone. (note 85)",,2026-07-21,person23,https://example.com/r/85,12
+google_reviews,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 86)",1,2026-09-26,person6,https://example.com/r/86,25
+g2,"Great value for money, easy to use interface, would recommend to anyone. (note 87)",5,2026-02-12,person9,https://example.com/r/87,24
+google_reviews,"Great value for money, easy to use interface, would recommend to anyone. (note 88)",5,2026-05-04,person25,https://example.com/r/88,30
+linkedin,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 89)",,2026-06-16,person29,https://example.com/r/89,4
+google_reviews,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 90)",3,2026-03-03,person28,https://example.com/r/90,19
+google_reviews,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 91)",3,2026-06-01,person18,https://example.com/r/91,7
+linkedin,"Love the product, amazing quality and the support team was so helpful. (note 92)",,2026-09-28,person29,https://example.com/r/92,18
+trustpilot,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 93)",5,2026-05-05,person17,https://example.com/r/93,6
+reddit,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 94),,2026-10-05,person13,https://example.com/r/94,8
+g2,Still waiting for my refund. Disappointed and angry about the billing. (note 95),1,2026-03-28,person35,https://example.com/r/95,11
+linkedin,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 96)",,2026-04-17,person37,https://example.com/r/96,28
+linkedin,"The app keeps crashing, very frustrating bug after the last update. (note 97)",,2026-02-25,person2,https://example.com/r/97,3
+google_reviews,"Fast delivery and excellent service. Thank you, very happy with Acme. (note 98)",5,2026-06-01,person9,https://example.com/r/98,2
+google_reviews,"The app keeps crashing, very frustrating bug after the last update. (note 99)",1,2026-08-12,person33,https://example.com/r/99,21
+g2,"Terrible customer service, nobody replied to my ticket for weeks. Worst experience. (note 100)",1,2026-03-05,person29,https://example.com/r/100,22
+linkedin,"The app keeps crashing, very frustrating bug after the last update. (note 101)",,2026-10-04,person26,https://example.com/r/101,10
+google_reviews,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 102)",3,2026-07-13,person25,https://example.com/r/102,6
+google_reviews,"Great value for money, easy to use interface, would recommend to anyone. (note 103)",5,2026-09-19,person13,https://example.com/r/103,29
+linkedin,"Delivery took five days, package arrived as described. (note 104)",,2026-03-29,person29,https://example.com/r/104,19
+google_reviews,"The app keeps crashing, very frustrating bug after the last update. (note 105)",1,2026-09-27,person1,https://example.com/r/105,21
+linkedin,"Delivery took five days, package arrived as described. (note 106)",,2026-06-22,person40,https://example.com/r/106,18
+trustpilot,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 107)",3,2026-05-29,person2,https://example.com/r/107,13
+reddit,"Delivery took five days, package arrived as described. (note 108)",,2026-04-02,person5,https://example.com/r/108,26
+google_reviews,"Great value for money, easy to use interface, would recommend to anyone. (note 109)",5,2026-05-16,person27,https://example.com/r/109,27
+google_reviews,Hidden fees and a nightmare to cancel my subscription. Felt like a scam. (note 110),1,2026-08-25,person17,https://example.com/r/110,15
+reddit,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 111)",,2026-05-19,person33,https://example.com/r/111,3
+google_reviews,"Used Acme for a month, the dashboard has some features and an integration with Slack. (note 112)",3,2026-07-01,person5,https://example.com/r/112,21
+linkedin,"Love the product, amazing quality and the support team was so helpful. (note 113)",,2026-09-17,person11,https://example.com/r/113,22
+trustpilot,"Delivery took five days, package arrived as described. (note 114)",3,2026-06-05,person14,https://example.com/r/114,16
+reddit,"The app keeps crashing, very frustrating bug after the last update. (note 115)",,2026-05-18,person5,https://example.com/r/115,2
+google_reviews,Still waiting for my refund. Disappointed and angry about the billing. (note 116),1,2026-09-19,person36,https://example.com/r/116,23
+trustpilot,"The app keeps crashing, very frustrating bug after the last update. (note 117)",1,2026-10-12,person18,https://example.com/r/117,11
+google_reviews,Still waiting for my refund. Disappointed and angry about the billing. (note 118),1,2026-10-15,person26,https://example.com/r/118,5
+linkedin,"The app keeps crashing, very frustrating bug after the last update. (note 119)",,2026-04-24,person17,https://example.com/r/119,30
+trustpilot,BEST EVER!!! BUY NOW THE BEST COMPANY,5,2026-03-03,x1,,0
+trustpilot,BEST EVER!!! BUY NOW THE BEST COMPANY,5,2026-03-03,x2,,0
